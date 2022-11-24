@@ -1,0 +1,38 @@
+.red{
+position:fixed;
+top:200px;
+z-index 500; 
+left: 0;
+
+}
+
+
+#Silla a{
+background: #3b5998;
+padding: 10px 20px;
+color: #fff;
+text-decoration: none;
+width: 55px;
+transition: all.4s ease;
+}
+
+#Silla a:hover{
+	background: #000;
+	padding: 10px 50px;
+}
+
+#Factura a{
+background: #55acee;
+padding: 10px 20px;
+color: #fff;
+text-decoration: none;
+width: 55px;
+transition: all.4s ease;
+}
+#Factura a:hover{
+	background: #000;
+	padding: 10px 50px;
+}
+
+
+
